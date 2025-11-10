@@ -1,0 +1,3 @@
+print("Hello World!")
+print("Bem-vindo ao container Docker com Python!")
+print("Sistemas Operacionais - 2025.2")
